@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import requests
 from datetime import date, timedelta
-API_KEY = "ddc82d664afc874d4907fdcfde641ba0"
+API_KEY = "insert api key here"
 team_codes = {
     "Atlanta": "ATL",
     "Arizona": "ARI",
